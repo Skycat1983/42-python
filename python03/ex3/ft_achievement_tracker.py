@@ -1,4 +1,13 @@
 #!/usr/bin/env python3
+# Core assignment requirements (summary, not a compliance claim).
+# Source: python03.pdf v3.0, printed pp. 13-14.
+# Randomly generate achievement sets for at least four players from a
+# fixed achievement catalogue. Use set operations to report all distinct
+# achievements, those common to every player, each player's exclusive
+# achievements, and those each player lacks from the full catalogue.
+#
+# Module rules: Python 3.10+, flake8, type hints/mypy; no file I/O.
+
 
 import random
 

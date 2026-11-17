@@ -1,4 +1,12 @@
 #!/usr/bin/env python3
+# Core assignment requirements (summary, not a compliance claim).
+# Source: python03.pdf v3.0, printed pp. 9-10.
+# Parse command-line scores into a list. Report and discard invalid
+# values, continuing with valid ones; handle an empty result gracefully.
+# Display count, total, average, maximum, minimum, and score range.
+#
+# Module rules: Python 3.10+, flake8, type hints/mypy; no file I/O.
+
 
 import sys
 

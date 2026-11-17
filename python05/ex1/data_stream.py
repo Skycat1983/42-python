@@ -1,4 +1,15 @@
 #!/usr/bin/env python3
+# Core assignment requirements (summary, not a compliance claim).
+# Source: python05.pdf v3.0, printed pp. 9-10.
+# Extend exercise 0 with DataStream: register_processor(proc) registers
+# a DataProcessor, and process_stream(stream) routes heterogeneous values
+# through the processors' common interface. Report unsupported values.
+# print_processors_stats() reports processed and remaining item counts.
+# Demonstrate registration, processing, output consumption, and updated
+# statistics without depending on concrete processor implementations.
+#
+# Module rules: Python 3.10+, flake8, type hints/mypy; imports: abc and typing.
+
 
 from typing import Any
 import typing

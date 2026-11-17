@@ -1,4 +1,16 @@
 #!/usr/bin/env python3
+# Core assignment requirements (summary, not a compliance claim).
+# Source: python10.pdf v3.2, printed pp. 18-20.
+# spell_reducer uses reduce and operator helpers for add/multiply/max/min,
+# returns zero for empty input, and handles unknown operations.
+# partial_enchanter uses partial to make three specialized enchantments
+# with power=50 and preset elements. memoized_fibonacci uses lru_cache to
+# compute Fibonacci numbers and reuse results. spell_dispatcher returns
+# a singledispatch function handling int, str, list, and unknown types.
+#
+# Module rules: Python 3.10+, flake8, type hints; no globals, file I/O, external
+# packages, eval, or exec. Keep processing focused on functional patterns.
+
 from collections.abc import Callable
 from functools import reduce, partial, lru_cache, singledispatch
 from operator import add, mul

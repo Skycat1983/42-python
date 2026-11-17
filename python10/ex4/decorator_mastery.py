@@ -1,4 +1,19 @@
 #!/usr/bin/env python3
+# Core assignment requirements (summary, not a compliance claim).
+# Source: python10.pdf v3.2, printed pp. 21-23.
+# spell_timer preserves metadata with wraps, reports the function name
+# and elapsed seconds to three decimals, and returns the original result.
+# power_validator(min_power) wraps standalone functions and the guild method,
+# allowing power >= the threshold and otherwise returning
+# "Insufficient power for this spell". retry_spell retries exceptions within
+# max_attempts, reports retries, returns a successful result, or reports
+# exhaustion. MageGuild.validate_mage_name is static and accepts names of
+# at least three characters containing only letters/spaces. cast_spell uses
+# power_validator(10) and returns a success message with spell and power.
+#
+# Module rules: Python 3.10+, flake8, type hints; no globals, file I/O, external
+# packages, eval, or exec. Keep processing focused on functional patterns.
+
 
 from collections.abc import Callable
 from functools import wraps

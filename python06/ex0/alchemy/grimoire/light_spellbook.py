@@ -1,3 +1,6 @@
+# Source for the requirement comments below: python06.pdf v2.0,
+# printed pp. 14-15. These describe the assignment, not verified compliance.
+
 # Exercise requirements from python06.pdf:
 # - alchemy/grimoire/light_spellbook.py will contain:
 #   - A function light_spell_allowed_ingredients() that returns a list of

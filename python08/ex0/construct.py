@@ -1,4 +1,14 @@
 #!/usr/bin/env python3
+# Core assignment requirements (summary, not a compliance claim).
+# Source: python08.pdf v3.0, printed pp. 6-8.
+# Detect whether Python runs in a virtual environment and display the
+# interpreter, environment information, and package installation paths.
+# When outside one, show creation and activation instructions. Demonstrate
+# global versus isolated package locations and test both environments.
+# Do not submit the virtual environment itself.
+#
+# Module rules: Python 3.10+, flake8, type hints/mypy; handle errors gracefully.
+
 
 # python3 -m venv matrix_env
 # source matrix_env/bin/activate

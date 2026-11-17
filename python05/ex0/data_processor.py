@@ -1,4 +1,18 @@
 #!/usr/bin/env python3
+# Core assignment requirements (summary, not a compliance claim).
+# Source: python05.pdf v3.0, printed pp. 6-8.
+# Define DataProcessor as an ABC with abstract validate(data: Any) -> bool
+# and ingest(data: Any) -> None methods and a shared output() method.
+# NumericProcessor accepts numbers or lists of numbers; TextProcessor
+# accepts strings or lists of strings; LogProcessor accepts string-to-string
+# dictionaries or lists of them. Specialize ingest type annotations and
+# reject invalid ingestion even when validation was skipped. Store string
+# representations; output removes the oldest entry as (rank, text).
+# Demonstrate valid/invalid validation, rejected ingestion, and FIFO output.
+# The required invalid-ingestion demonstration intentionally triggers mypy.
+#
+# Module rules: Python 3.10+, flake8, type hints/mypy; imports: abc and typing.
+
 
 from typing import Any
 from abc import ABC, abstractmethod

@@ -1,4 +1,12 @@
 #!/usr/bin/env python3
+# Core assignment requirements (summary, not a compliance claim).
+# Source: python03.pdf v3.0, printed pp. 7-8.
+# Read sys.argv and display the program name, each user argument, and
+# argument counts. Explain the empty-argument case; the total includes
+# the program name.
+#
+# Module rules: Python 3.10+, flake8, type hints/mypy; no file I/O.
+
 
 import sys
 

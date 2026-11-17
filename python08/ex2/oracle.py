@@ -1,4 +1,15 @@
 #!/usr/bin/env python3
+# Core assignment requirements (summary, not a compliance claim).
+# Source: python08.pdf v3.0, printed pp. 12-14.
+# Use python-dotenv to load development settings from .env, letting
+# existing environment variables override file values. Handle MATRIX_MODE,
+# DATABASE_URL, API_KEY, LOG_LEVEL, and ZION_ENDPOINT, including missing
+# configuration. Make development/production differences visible in output.
+# Submit a placeholder .env.example and a .gitignore that excludes .env;
+# never commit real credentials or replace python-dotenv with a custom parser.
+#
+# Module rules: Python 3.10+, flake8, type hints/mypy; handle errors gracefully.
+
 
 # Directory: ex2/
 # Files to Submit: oracle.py, .env.example, .gitignore

@@ -1,3 +1,6 @@
+# Source for the requirement comments below: python06.pdf v2.0,
+# printed pp. 14-15. These describe the assignment, not verified compliance.
+
 # Exercise requirements from python06.pdf:
 # - Duplicate light_validator.py to obtain dark_validator.py, and change
 #   the function names as well.

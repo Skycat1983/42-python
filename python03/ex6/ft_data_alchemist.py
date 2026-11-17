@@ -1,4 +1,14 @@
 #!/usr/bin/env python3
+# Core assignment requirements (summary, not a compliance claim).
+# Source: python03.pdf v3.0, printed pp. 19-20.
+# Use list comprehensions to capitalize all player names and separately
+# select names already capitalized in the original list. Use dictionary
+# comprehensions to assign random scores to the capitalized names and
+# select scores above their average. Keep comprehensions on one line
+# unless the line-length limit requires wrapping.
+#
+# Module rules: Python 3.10+, flake8, type hints/mypy; no file I/O.
+
 
 import random
 

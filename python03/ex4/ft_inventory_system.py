@@ -1,4 +1,14 @@
 #!/usr/bin/env python3
+# Core assignment requirements (summary, not a compliance claim).
+# Source: python03.pdf v3.0, printed pp. 15-16.
+# Parse item:quantity arguments into a dictionary of integer quantities.
+# Report and discard malformed or repeated items. Display the inventory,
+# item names, total quantity, and each item's percentage. Report the most
+# and least abundant items, resolving ties by command-line order; then
+# add a new item and display the updated inventory.
+#
+# Module rules: Python 3.10+, flake8, type hints/mypy; no file I/O.
+
 
 import sys
 

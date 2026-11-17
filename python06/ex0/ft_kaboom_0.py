@@ -1,3 +1,6 @@
+# Source for the requirement comments below: python06.pdf v2.0,
+# printed pp. 14-15. These describe the assignment, not verified compliance.
+
 # Exercise requirements from python06.pdf:
 # - ft_kaboom_0.py will access the grimoire module directly and then
 #   record a light spell, flawlessly.

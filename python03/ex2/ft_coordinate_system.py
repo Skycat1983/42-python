@@ -1,4 +1,13 @@
 #!/usr/bin/env python3
+# Core assignment requirements (summary, not a compliance claim).
+# Source: python03.pdf v3.0, printed pp. 11-12.
+# Implement get_player_pos() to request x,y,z coordinates, retry invalid
+# input, and return a three-dimensional tuple. Display the first tuple
+# and its individual coordinates, its Euclidean distance from the origin,
+# then the distance between that position and a second entered position.
+#
+# Module rules: Python 3.10+, flake8, type hints/mypy; no file I/O.
+
 
 import math
 

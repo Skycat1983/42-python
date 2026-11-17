@@ -1,4 +1,16 @@
 #!/usr/bin/env python3
+# Core assignment requirements (summary, not a compliance claim).
+# Source: python08.pdf v3.0, printed pp. 9-11.
+# Generate simulated data with NumPy, manipulate it with pandas, and
+# produce a matplotlib visualization. Supply requirements.txt for pip and
+# pyproject.toml for Poetry; explain their differences in program output.
+# Detect missing dependencies with useful installation guidance and show
+# installed versions through a comparison function. requests is optional
+# for real API data. Test with and without dependencies; only import-related
+# flake8/mypy errors are explicitly permitted in this exercise.
+#
+# Module rules: Python 3.10+, flake8, type hints/mypy; handle errors gracefully.
+
 
 # importlib is a python standard-library module for importing other modules
 # dynamically from names stored as strings

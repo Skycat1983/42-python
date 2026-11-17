@@ -1,4 +1,16 @@
 #!/usr/bin/env python3
+# Core assignment requirements (summary, not a compliance claim).
+# Source: python10.pdf v3.2, printed pp. 15-17.
+# Use closures, not globals, for persistent private state. mage_counter
+# starts at one and separate counters remain independent. spell_accumulator
+# adds each amount to its initial power and returns the running total.
+# enchantment_factory returns a function producing "enchantment_type item".
+# memory_vault returns store(key, value) and recall(key) callables sharing
+# private storage; an absent key returns "Memory not found".
+#
+# Module rules: Python 3.10+, flake8, type hints; no globals, file I/O, external
+# packages, eval, or exec. Keep processing focused on functional patterns.
+
 from collections.abc import Callable
 from typing import Any
 

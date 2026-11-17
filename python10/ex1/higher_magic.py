@@ -1,4 +1,17 @@
 #!/usr/bin/env python3
+# Core assignment requirements (summary, not a compliance claim).
+# Source: python10.pdf v3.2, printed pp. 12-14.
+# Build higher-order functions around spells taking (target: str,
+# power: int). spell_combiner passes the same arguments to two spells and
+# returns their results as a tuple. power_amplifier multiplies power before
+# calling its spell. conditional_caster calls the condition with the same
+# arguments, casting only when true and returning "Spell fizzled" otherwise.
+# spell_sequence invokes spells in order and returns a list of results.
+# Demonstrate all modifiers; import Callable from collections.abc.
+#
+# Module rules: Python 3.10+, flake8, type hints; no globals, file I/O, external
+# packages, eval, or exec. Keep processing focused on functional patterns.
+
 
 from collections.abc import Callable
 

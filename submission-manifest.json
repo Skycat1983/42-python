@@ -123,31 +123,45 @@
     "files": [
       {
         "path": "ex0/ft_command_quest.py",
-        "sha256": "a7eb940e57e10067bba2a54361d86621f1ce5e3e2b3a21d83427cb5cd49dbd7b"
+        "sha256": "a7eb940e57e10067bba2a54361d86621f1ce5e3e2b3a21d83427cb5cd49dbd7b",
+        "annotated_sha256": "72da55dd9c78fdb033a9ecaa097a0545ce1d982dc45e8540a26bc12e7184ca6f",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex1/ft_score_analytics.py",
-        "sha256": "615b2e598e01943ebe515b249626e57795824d9394289b58cd0d18192eabf05e"
+        "sha256": "615b2e598e01943ebe515b249626e57795824d9394289b58cd0d18192eabf05e",
+        "annotated_sha256": "def676d410a1fb825ed344725300f2267d85a258006d08b87ba84f8efcbebd26",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex2/ft_coordinate_system.py",
-        "sha256": "a5415d65717cfbc31d3afefb4f6fa82ed1d5820fed37f9d417f704a217a35e15"
+        "sha256": "a5415d65717cfbc31d3afefb4f6fa82ed1d5820fed37f9d417f704a217a35e15",
+        "annotated_sha256": "59275b7fc6c22f514f45a14734649cfff5a28db1bcb8f9cc207695941188dc26",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex3/ft_achievement_tracker.py",
-        "sha256": "343ec09a54429ab191579f2a829d7683821c9e32a612b0e5fc804476064949c1"
+        "sha256": "343ec09a54429ab191579f2a829d7683821c9e32a612b0e5fc804476064949c1",
+        "annotated_sha256": "8eae2c9f6069ffb8882e74de636517e8e9d6887fe69210ba8b807ff8e5813225",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex4/ft_inventory_system.py",
-        "sha256": "535830e812396991d13e9ed03091a7bed3c95edf923dbb5cb757a884992bd264"
+        "sha256": "535830e812396991d13e9ed03091a7bed3c95edf923dbb5cb757a884992bd264",
+        "annotated_sha256": "632fed9a3e439a6452ea88a39199c680eff5e51be05ed09056820caea0642bb5",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex5/ft_data_stream.py",
-        "sha256": "840b2327a2e00d28953319871e1fbc1ddd1749d7aac5d0feb71e2ca3d0ed2af0"
+        "sha256": "840b2327a2e00d28953319871e1fbc1ddd1749d7aac5d0feb71e2ca3d0ed2af0",
+        "annotated_sha256": "fa3ba126f98dbfa431bd1adddb5cc4f73f9f38e9227a1532f20a7f2aa9c91fdc",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex6/ft_data_alchemist.py",
-        "sha256": "c9e5105c5a45df321f5f24063315f601db21249b2eee6549061d94f2fb8f35fd"
+        "sha256": "c9e5105c5a45df321f5f24063315f601db21249b2eee6549061d94f2fb8f35fd",
+        "annotated_sha256": "6b65ecf07c979ea4eabefba45f55bca43ce1c049d4008343fe022e4dbf72ffb2",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       }
     ]
   },
@@ -187,15 +201,21 @@
     "files": [
       {
         "path": "ex0/data_processor.py",
-        "sha256": "5b4c2cc436b2a6e356f734bf51bff219caef5ac6b04a80da107a6fa34e574de4"
+        "sha256": "5b4c2cc436b2a6e356f734bf51bff219caef5ac6b04a80da107a6fa34e574de4",
+        "annotated_sha256": "40f1ef165e1ab24492619bae23d78d38d63cf5505791b8f14a3000a855f003c8",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex1/data_stream.py",
-        "sha256": "5cbddb0ed87f35aba5121eacd447bc70987bb2de6f1dd149b3333da45f0f2608"
+        "sha256": "5cbddb0ed87f35aba5121eacd447bc70987bb2de6f1dd149b3333da45f0f2608",
+        "annotated_sha256": "3abc5775f4dd3f6e712133b605546b079d22a591db5be49f7d107bf742a07f36",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex2/data_pipeline.py",
-        "sha256": "f33cf6784829d399074e6535b42696cb3b935d8377d8bef2128ad625d8b7d243"
+        "sha256": "f33cf6784829d399074e6535b42696cb3b935d8377d8bef2128ad625d8b7d243",
+        "annotated_sha256": "d30f3d34f4299200608262785fd1affc2edd991b18cbfb8c5c378f16ebd3a7b3",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       }
     ]
   },
@@ -211,99 +231,147 @@
     "files": [
       {
         "path": "ex0/alchemy/__init__.py",
-        "sha256": "80637077a861e59b1454a6287e230711ab60387eeeb7e61fe26e0736eb0a4b86"
+        "sha256": "80637077a861e59b1454a6287e230711ab60387eeeb7e61fe26e0736eb0a4b86",
+        "annotated_sha256": "883a80940e601c08eef1bd03626cc5a8592fb4ddd0369ebc4dfaee06ccb30815",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex0/alchemy/elements.py",
-        "sha256": "c9b39f3f2ffc1fe1cc42532ec4025ac4b9a58ce5323e26fabf1eb51e4344feab"
+        "sha256": "c9b39f3f2ffc1fe1cc42532ec4025ac4b9a58ce5323e26fabf1eb51e4344feab",
+        "annotated_sha256": "3e4d334ea96dd4f62172f6270add9387454143748693338a35cf7fdcaddbf6c6",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex0/alchemy/grimoire/__init__.py",
-        "sha256": "68b34d1315f4d8cab110bc8df9470c46d57545825b90bb4f22a961210b5e94f9"
+        "sha256": "68b34d1315f4d8cab110bc8df9470c46d57545825b90bb4f22a961210b5e94f9",
+        "annotated_sha256": "3ecf548363782da1f906759c9334d7242e845bc5a94bad00235bf8997d01393f",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex0/alchemy/grimoire/dark_spellbook.py",
-        "sha256": "a475d198ae01355759552db6a70583272e7f079293e7cebf77f19dbffe38fdf3"
+        "sha256": "a475d198ae01355759552db6a70583272e7f079293e7cebf77f19dbffe38fdf3",
+        "annotated_sha256": "bc3eba1c35368df77b2663fea6f285447a9ee30d7c96a174205a949cfdbccacd",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex0/alchemy/grimoire/dark_validator.py",
-        "sha256": "4cf0e6ce4ddf07b9828bb782c13ac1c0d2269138033c7c6ee41b9d6c1f6c48c7"
+        "sha256": "4cf0e6ce4ddf07b9828bb782c13ac1c0d2269138033c7c6ee41b9d6c1f6c48c7",
+        "annotated_sha256": "c917b0992c2d46f54a4ccd5150f0304e5188c72c83215048da60de69ebfb43d0",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex0/alchemy/grimoire/light_spellbook.py",
-        "sha256": "a6e283bd7a83d641c76a23b3f611d3768e7f0e088cb326768bfc921b958ed375"
+        "sha256": "a6e283bd7a83d641c76a23b3f611d3768e7f0e088cb326768bfc921b958ed375",
+        "annotated_sha256": "17dbc3ea9c832cb7738a469651d86b8eb744aa591525c62635bec84e1334212f",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex0/alchemy/grimoire/light_validator.py",
-        "sha256": "b61ee5e26dbb05479238ca4613a3729f71a900646ba38521a7e1340e375341ec"
+        "sha256": "b61ee5e26dbb05479238ca4613a3729f71a900646ba38521a7e1340e375341ec",
+        "annotated_sha256": "1c401ba41a8066f6aca5f6833a9b14ef89f9a2ac9f75c3dbfec12feb08cfa06e",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex0/alchemy/potions.py",
-        "sha256": "f5f43220638534bdc0ec937f67ee6e4109618bc553c37f82c77b3ef7883ff4d9"
+        "sha256": "f5f43220638534bdc0ec937f67ee6e4109618bc553c37f82c77b3ef7883ff4d9",
+        "annotated_sha256": "30209d5d3ac294f79044f1f8b9f361b212a2ae08f33a165e63b21a40a8d46493",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex0/alchemy/transmutation/__init__.py",
-        "sha256": "5f4c7cb0da5378de3100d2d629520f6a4e53e80811c65bcf910d5d7d11f20bc2"
+        "sha256": "5f4c7cb0da5378de3100d2d629520f6a4e53e80811c65bcf910d5d7d11f20bc2",
+        "annotated_sha256": "247a1658c9c9110ea5e120e2454fc16a08f66e65b3edf522b42165b08e0b38ff",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex0/alchemy/transmutation/recipes.py",
-        "sha256": "82b296538b186ac8b134598549a7aea50425b4106c386cc014a5b1117433ba62"
+        "sha256": "82b296538b186ac8b134598549a7aea50425b4106c386cc014a5b1117433ba62",
+        "annotated_sha256": "a6dd022edc0a6993a0a84eb63230a9cd75505616949e78ed23c6565e948fb161",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex0/elements.py",
-        "sha256": "559a1d5b672b68d5248e54a41139e6176db223370829b6d5424b2d7b06a7a326"
+        "sha256": "559a1d5b672b68d5248e54a41139e6176db223370829b6d5424b2d7b06a7a326",
+        "annotated_sha256": "dd99fe8f45dee4d3a979f9035da5ee34fc1a1295b9606e3d8be44bdf0a28a333",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex0/ft_alembic_0.py",
-        "sha256": "22968d7d599fefa6ee0667211f4624c043e012c20207720383665c4190bc986e"
+        "sha256": "22968d7d599fefa6ee0667211f4624c043e012c20207720383665c4190bc986e",
+        "annotated_sha256": "de2b7253fb174b4eefdf1e667b1fe5b5ac35f32ff469e8368cc047aef190cb9c",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex0/ft_alembic_1.py",
-        "sha256": "7bfa3455070ac61b695367bf0eadafe0d8e17cd1dc2f16db54aebc297391f62d"
+        "sha256": "7bfa3455070ac61b695367bf0eadafe0d8e17cd1dc2f16db54aebc297391f62d",
+        "annotated_sha256": "d9ddc421181b58087f5336991378527828ab992280906f39389049341c364e93",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex0/ft_alembic_2.py",
-        "sha256": "072bd731a4588593014fce29118a03ababedaa50c1187a3f02f0aaa733410956"
+        "sha256": "072bd731a4588593014fce29118a03ababedaa50c1187a3f02f0aaa733410956",
+        "annotated_sha256": "43bc13362a8a8dc4e288c1e4dc9644220be2ad8c5f6f04c488c15c60d6ace6a5",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex0/ft_alembic_3.py",
-        "sha256": "aa7c61f289f794e6754ed12c1087b1c95546225bf0ef10d98866d5358ca6911f"
+        "sha256": "aa7c61f289f794e6754ed12c1087b1c95546225bf0ef10d98866d5358ca6911f",
+        "annotated_sha256": "e5cd9dbf590ad40a3d9d5e1f0ac989f2be9ba9b8ffa333c76e271739c81c2521",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex0/ft_alembic_4.py",
-        "sha256": "d97f48afbd5e18e13d94f17cf6797337a849894840f1db9383629a3a8c41d0dd"
+        "sha256": "d97f48afbd5e18e13d94f17cf6797337a849894840f1db9383629a3a8c41d0dd",
+        "annotated_sha256": "6464c5b52492620e5ec0c389302d02db3248bade438deccb0585a3ce5a9dc928",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex0/ft_alembic_5.py",
-        "sha256": "652f9d4ee7af834451b66f2ebaeb65c3addb85c5f3ab667792e00cc778ca3eb4"
+        "sha256": "652f9d4ee7af834451b66f2ebaeb65c3addb85c5f3ab667792e00cc778ca3eb4",
+        "annotated_sha256": "e1bdea8baab378ecc90b60dbbb9256ea460acfbcaf96e893a6b212e9f389c494",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex0/ft_distillation_0.py",
-        "sha256": "f410318d74f651142f5e8051441299717b19326ce59038b82cbbe8b561184e55"
+        "sha256": "f410318d74f651142f5e8051441299717b19326ce59038b82cbbe8b561184e55",
+        "annotated_sha256": "ce8988c4cf3a8e1559c162017702b7799964ff8ffd48a15b635ba0298adb7262",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex0/ft_distillation_1.py",
-        "sha256": "f69f0177c73f3b29a5f1bcb98b09b883157ac1f0848901c2cc35dc666e8d4ab2"
+        "sha256": "f69f0177c73f3b29a5f1bcb98b09b883157ac1f0848901c2cc35dc666e8d4ab2",
+        "annotated_sha256": "cf647343b3408b5ad9722bbc95b0a97db76d75b689a4ae171f9c32c1bb62fec0",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex0/ft_kaboom_0.py",
-        "sha256": "6245fa3608d66c8d3b0579580bc6278cd98fb048e48a32058db2208f6f1c9c42"
+        "sha256": "6245fa3608d66c8d3b0579580bc6278cd98fb048e48a32058db2208f6f1c9c42",
+        "annotated_sha256": "6d5a72ce0f64f5b08123aa4da8c616db46385884ed2fb4ea5cb7159c2eb777e2",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex0/ft_kaboom_1.py",
-        "sha256": "52bbda7c445c9a5cd1078b2f164ac142c907d21dceb3b89405258c93f45b770b"
+        "sha256": "52bbda7c445c9a5cd1078b2f164ac142c907d21dceb3b89405258c93f45b770b",
+        "annotated_sha256": "fe5624e89838d25f4555d140bcb1523db934b102efd6fefbd23e3a23597b8a49",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex0/ft_transmutation_0.py",
-        "sha256": "6fcdd4a85965ae85e9fce96e509706486474882cb2cd594f5d3415a41d232a2b"
+        "sha256": "6fcdd4a85965ae85e9fce96e509706486474882cb2cd594f5d3415a41d232a2b",
+        "annotated_sha256": "3d259077fb3f9f9634da3e7863aac3ce71d2134639219f746daa1042da4471f7",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex0/ft_transmutation_1.py",
-        "sha256": "0d67c2298d64208264d3391b9f1b8d523921f5747bd2ab4e351d70de86e34147"
+        "sha256": "0d67c2298d64208264d3391b9f1b8d523921f5747bd2ab4e351d70de86e34147",
+        "annotated_sha256": "d9510ab27b7fa8d4c340e74ec98f13eb72506df41917f5c420abd4d9e30efe51",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex0/ft_transmutation_2.py",
-        "sha256": "b28528853ed18788519d5eacaf0f4672e757af464f6c1add69fd98b127980060"
+        "sha256": "b28528853ed18788519d5eacaf0f4672e757af464f6c1add69fd98b127980060",
+        "annotated_sha256": "ab3738b7831432c288205ac21bb2b4d83d03a9227e3be89171ae260ae2bbcfa2",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       }
     ]
   },
@@ -375,11 +443,15 @@
     "files": [
       {
         "path": "ex0/construct.py",
-        "sha256": "f64b4c9c182819c7a51c47af385e52c2ed53dfec9d6a54b8ac48b673439b147c"
+        "sha256": "f64b4c9c182819c7a51c47af385e52c2ed53dfec9d6a54b8ac48b673439b147c",
+        "annotated_sha256": "c106bc52f980de5f2a04e93b464046ebc35d15d7b622dde6226e82ed189a28b9",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex1/loading.py",
-        "sha256": "6dd2155cd4ea9dd65c63b57b6781f05c5f26aaadc3f914c35a07098a24b6efa3"
+        "sha256": "6dd2155cd4ea9dd65c63b57b6781f05c5f26aaadc3f914c35a07098a24b6efa3",
+        "annotated_sha256": "3bdaf18adea51d2982e4bba10e7c49c91ab60206325e04e50a1a902a0e3092de",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex1/pyproject.toml",
@@ -399,7 +471,9 @@
       },
       {
         "path": "ex2/oracle.py",
-        "sha256": "1b92cdbfaac865cfa5309dc960fe3fac7239744e020a884a2e1ccd9392eb527f"
+        "sha256": "1b92cdbfaac865cfa5309dc960fe3fac7239744e020a884a2e1ccd9392eb527f",
+        "annotated_sha256": "7d159a359f9a1741eeeb000bc1264052d481ce5b30b750b9216e2fef3bb7fe27",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       }
     ]
   },
@@ -435,23 +509,33 @@
     "files": [
       {
         "path": "ex0/lambda_spells.py",
-        "sha256": "b3b1c6fe3f08e04f2b839698e8a6590634dc37d2e947870361edad533e78d640"
+        "sha256": "b3b1c6fe3f08e04f2b839698e8a6590634dc37d2e947870361edad533e78d640",
+        "annotated_sha256": "abdf735b0902fd4b7201b18972744254a6e5950de1717b1ef7f8eee9a9e2cfcf",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex1/higher_magic.py",
-        "sha256": "07b1e040bffe4cbeb3d2d87d4fbdf8d63bc1f2ad1ce6af72fc143e0271ca4f11"
+        "sha256": "07b1e040bffe4cbeb3d2d87d4fbdf8d63bc1f2ad1ce6af72fc143e0271ca4f11",
+        "annotated_sha256": "94adacb5ffa4413acb514ac5078c76c4fc7bf2ced8b1b7b8d9d545863eacd5f7",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex2/scope_mysteries.py",
-        "sha256": "212fd58bc7edeade116c2f41d823ba84878c5d47ec9891945c072e8eea482fc0"
+        "sha256": "212fd58bc7edeade116c2f41d823ba84878c5d47ec9891945c072e8eea482fc0",
+        "annotated_sha256": "e7c7638ad34cd4806f52f19d4b25ec80321ff21ddca0f18d43852fed90126362",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex3/functools_artifacts.py",
-        "sha256": "963830089744d94ed531dd526bf643b26ee6ba79001bda39d46db6fe1f111e46"
+        "sha256": "963830089744d94ed531dd526bf643b26ee6ba79001bda39d46db6fe1f111e46",
+        "annotated_sha256": "a04baadee75a71424c86493cdeab8e585d8ad655106932767c6cfc5128dd0da2",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       },
       {
         "path": "ex4/decorator_mastery.py",
-        "sha256": "4272c81e4b232e91bda09c5c39103699dcba16b42640bc75ece930587208e38e"
+        "sha256": "4272c81e4b232e91bda09c5c39103699dcba16b42640bc75ece930587208e38e",
+        "annotated_sha256": "cfb6894e07dc93626db661fe20eb17d2e35c5b8583401a512bbe275d8c8d8c2b",
+        "annotation": "PDF-derived requirement comments; executable AST unchanged."
       }
     ]
   }

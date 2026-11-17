@@ -1,7 +1,8 @@
 # 42 Python submissions
 
 My numbered Python submissions from 42 Berlin, collected in one repository.
-Each module retains its submitted exercise layout and source code.
+Each module retains its submitted exercise layout and executable code.
+Selected files include additional requirement comments sourced from local PDFs.
 
 ## Modules
 
@@ -27,7 +28,8 @@ school repository's remote HEAD on that date. Python 09 uses the newer
 
 This repository starts a new combined history. The original repositories retain
 their existing histories. `submission-manifest.json` records the full source
-commit IDs and SHA-256 checksums of every imported file.
+commit IDs and original SHA-256 checksums (`sha256`) of every imported file.
+Files with added comments also record `annotated_sha256` for the published copy.
 
 Only committed submission files are included. Uncommitted notes, subject PDFs,
 environments, and caches are omitted. The tracked macOS `.DS_Store` file in
@@ -49,3 +51,32 @@ python3 ft_hello_garden.py
 
 All imported Python files passed syntax parsing during collection. This checks
 syntax only; it does not establish runtime correctness or evaluation results.
+
+## Requirement summaries
+
+Added on 2026-11-17. Short comments in the Python files summarize the available
+subjects, with version numbers and printed page references. Python 06 already
+contained requirement comments; those were retained and supplemented.
+
+| Module | Local source | Coverage |
+| --- | --- | --- |
+| Python 03 | Data Quest v3.0 | Exercises 0–6 |
+| Python 05 | Code Nexus v3.0 | Exercises 0–2 |
+| Python 06 | The Codex v2.0 | All four parts |
+| Python 08 | The Matrix v3.0 | Exercises 0–2 |
+| Python 10 | FuncMage v3.2 | Exercises 0–4 |
+
+PDFs for Python 00, 01, 02, 04, 07, and 09 were not available during this pass;
+no PDF-derived requirements were added to those modules. These summaries capture
+core requirements, not the complete subjects or proof of compliance. All PDFs
+and temporary full-text extractions stay outside this repository.
+
+Python 06's module-wide rules require Python 3.10+, flake8, and type annotations
+checked with mypy. Only project-local imports are allowed; modifying sys.path,
+eval, and exec are forbidden. Some import/type errors are deliberate teaching
+examples in that subject.
+
+Validation: all 82 Python files parse; each annotated file has the same Python
+abstract syntax tree as its original submission, confirming that these edits
+only add comments. Original comments and learner questions are preserved.
+This check does not execute the exercises or establish their correctness.

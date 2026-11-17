@@ -1,3 +1,6 @@
+# Source for the requirement comments below: python06.pdf v2.0,
+# printed pp. 12-13. These describe the assignment, not verified compliance.
+
 # Exercise requirements from python06.pdf:
 # - alchemy/transmutation/recipes.py will contain:
 #   - A function lead_to_gold() that returns the string "Recipe

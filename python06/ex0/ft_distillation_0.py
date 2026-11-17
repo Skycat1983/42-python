@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Source for the requirement comments below: python06.pdf v2.0,
+# printed pp. 10-11. These describe the assignment, not verified compliance.
+
 #
 # Exercise requirements from python06.pdf:
 # - ft_distillation_0.py will use the from ... import ... structure to

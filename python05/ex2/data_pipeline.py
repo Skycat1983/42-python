@@ -1,4 +1,15 @@
 #!/usr/bin/env python3
+# Core assignment requirements (summary, not a compliance claim).
+# Source: python05.pdf v3.0, printed pp. 11-12.
+# Extend exercise 1 with an ExportPlugin Protocol defining
+# process_output(data: list[tuple[int, str]]) -> None. DataStream's
+# output_pipeline(nb, plugin) consumes up to nb entries from each processor
+# and hands them to a compatible plugin using structural/duck typing.
+# Provide CSV and JSON plugins that manually produce valid serialized
+# strings without importing CSV or JSON libraries.
+#
+# Module rules: Python 3.10+, flake8, type hints/mypy; imports: abc and typing.
+
 
 from typing import Any, Protocol
 import typing

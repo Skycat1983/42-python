@@ -1,4 +1,16 @@
 #!/usr/bin/env python3
+# Core assignment requirements (summary, not a compliance claim).
+# Source: python10.pdf v3.2, printed pp. 9-11.
+# Use lambdas for transformations: artifact_sorter sorts by descending
+# power with sorted; power_filter uses filter for power >= min_power;
+# spell_transformer uses map to surround names with "* " and " *".
+# mage_stats returns max_power, min_power, and avg_power rounded to two
+# decimals, using lambda keys with max/min. Keep the required public
+# functions, but do not replace simple lambda operations with named helpers.
+#
+# Module rules: Python 3.10+, flake8, type hints; no globals, file I/O, external
+# packages, eval, or exec. Keep processing focused on functional patterns.
+
 
 # ! A lambda is an anonymous function containing exactly one expression:
 

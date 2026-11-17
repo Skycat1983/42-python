@@ -1,4 +1,13 @@
 #!/usr/bin/env python3
+# Core assignment requirements (summary, not a compliance claim).
+# Source: python03.pdf v3.0, printed pp. 17-18.
+# Use yield in an endless gen_event() generator of random (name, action)
+# tuples. Pull and display 1,000 events without storing the whole stream.
+# Build a separate ten-event list; consume_event() must randomly remove
+# and yield its entries until empty, and be consumed with a for loop.
+#
+# Module rules: Python 3.10+, flake8, type hints/mypy; no file I/O.
+
 
 import random
 from typing import Generator
