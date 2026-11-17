@@ -1,0 +1,458 @@
+[
+  {
+    "module": "python00",
+    "source_directory": "python00",
+    "source_commit": "a75d9b3fc20a52d5e3a730f9dc0ff5140e96623f",
+    "commit_date": "2026-03-25",
+    "school_remote_verified_on": "2026-11-17",
+    "excluded_tracked_files": [],
+    "files": [
+      {
+        "path": "ex0/ft_hello_garden.py",
+        "sha256": "626c3bb97822258d5792e7c3adc87b7905d553b8ae76cf87e3e06acf0116f0ff"
+      },
+      {
+        "path": "ex1/ft_garden_name.py",
+        "sha256": "16bd61800049ade070afc4fbd083342bfb36214799fc8bce7e10a15f503269f2"
+      },
+      {
+        "path": "ex2/ft_plot_area.py",
+        "sha256": "da8bc3f917e9fb2bd4b9ae648147f295a175d15b293618928702b24d127cefd1"
+      },
+      {
+        "path": "ex3/ft_harvest_total.py",
+        "sha256": "bbdbbcfdd0416fdb022020d0d389274316dc90fee54daadb54a7e720b0f57c2d"
+      },
+      {
+        "path": "ex4/ft_plant_age.py",
+        "sha256": "b6ac39984582eff41f0271a58b36569cebfdd204520828fdc5026453afb4a3c6"
+      },
+      {
+        "path": "ex5/ft_water_reminder.py",
+        "sha256": "64b3d6d5a8f5bc3f8d94de33aee97f508794c83c1a969cf759f1b54dc29b35ba"
+      },
+      {
+        "path": "ex6/ft_count_harvest_iterative.py",
+        "sha256": "71b214f010abe84690f1ee050a472850981ac5828ac9f54440e331b48fb9f929"
+      },
+      {
+        "path": "ex6/ft_count_harvest_recursive.py",
+        "sha256": "5212f74cae118726ea23767b952e1f602e913e8648464f6acf5ba9a21f232df0"
+      },
+      {
+        "path": "ex7/ft_seed_inventory.py",
+        "sha256": "b26732584d4648bd174bace1d1394d9e3e6794a5e550c97c5340286698cf4208"
+      }
+    ]
+  },
+  {
+    "module": "python01",
+    "source_directory": "python01",
+    "source_commit": "ffbfca184c9fc205a47e8fa87245261672454728",
+    "commit_date": "2026-03-30",
+    "school_remote_verified_on": "2026-11-17",
+    "excluded_tracked_files": [],
+    "files": [
+      {
+        "path": "ex0/ft_graden_intro.py",
+        "sha256": "1f755bb6b5a0a4276a2cea7a4e5630c50bfee7d376ee3620fbb5d720bf9e3b7b"
+      },
+      {
+        "path": "ex1/ft_garden_data.py",
+        "sha256": "6cda459d0299be21c616637c3d148fdfeab28446f7121efb92be54293b898302"
+      },
+      {
+        "path": "ex2/ft_plant_growth.py",
+        "sha256": "2aabfbad3e22d8080e9050dc420e70607ac3f91815f2a15b30cdfcd3fb941a93"
+      },
+      {
+        "path": "ex3/ft_plant_factory.py",
+        "sha256": "4cb9332055715e56210c00a9328709974e225aa5d3e250df543ca549bb7c2d49"
+      },
+      {
+        "path": "ex4/ft_garden_security.py",
+        "sha256": "7b98a457cbed17c78a2a4ee20d10fd248cf6c9dd1bde2f86606f66cfb042fb92"
+      },
+      {
+        "path": "ex5/ft_plant_types.py",
+        "sha256": "65aeafb65afe16c82f6abd75e17cda94d99a09a132856e1646d682facfe6e9de"
+      },
+      {
+        "path": "ex6/ft_garden_analytics.py",
+        "sha256": "7421adfcc29575ec223e4969fab88a3f6bbda4f13aaf981083f42b98c80c8d3d"
+      }
+    ]
+  },
+  {
+    "module": "python02",
+    "source_directory": "python02",
+    "source_commit": "5db826b13f6bb1a0952a8ca1879acccb07b92b74",
+    "commit_date": "2026-04-10",
+    "school_remote_verified_on": "2026-11-17",
+    "excluded_tracked_files": [],
+    "files": [
+      {
+        "path": "ex0/ft_first_exception.py",
+        "sha256": "2d43b58b3189c9e7a994784c7580768c495ba7640f26e74ab61012d3dca54b5d"
+      },
+      {
+        "path": "ex1/ft_raise_exception.py",
+        "sha256": "ce5304b7d4b08ed3c5ee289ecc113acd15dc9af30ffffb906d91224bff3af0ec"
+      },
+      {
+        "path": "ex2/ft_different_errors.py",
+        "sha256": "9735cd6e2c3a4f1882b574919ccb875693bcd1b1783c878c30cdc278baacbc4e"
+      },
+      {
+        "path": "ex3/ft_custom_errors.py",
+        "sha256": "2a39362f5aac9258bb1890ff921555d09082609b7267ca2907c4ed18f8a3f517"
+      },
+      {
+        "path": "ex4/ft_finally_block.py",
+        "sha256": "47cc14880c9a2575585f9c33c154adc4525d14737794a451d7c2ad4a484c756d"
+      }
+    ]
+  },
+  {
+    "module": "python03",
+    "source_directory": "python03",
+    "source_commit": "929cb21350e21c2db89343aa3776a7062eaacd62",
+    "commit_date": "2026-06-03",
+    "school_remote_verified_on": "2026-11-17",
+    "excluded_tracked_files": [],
+    "files": [
+      {
+        "path": "ex0/ft_command_quest.py",
+        "sha256": "a7eb940e57e10067bba2a54361d86621f1ce5e3e2b3a21d83427cb5cd49dbd7b"
+      },
+      {
+        "path": "ex1/ft_score_analytics.py",
+        "sha256": "615b2e598e01943ebe515b249626e57795824d9394289b58cd0d18192eabf05e"
+      },
+      {
+        "path": "ex2/ft_coordinate_system.py",
+        "sha256": "a5415d65717cfbc31d3afefb4f6fa82ed1d5820fed37f9d417f704a217a35e15"
+      },
+      {
+        "path": "ex3/ft_achievement_tracker.py",
+        "sha256": "343ec09a54429ab191579f2a829d7683821c9e32a612b0e5fc804476064949c1"
+      },
+      {
+        "path": "ex4/ft_inventory_system.py",
+        "sha256": "535830e812396991d13e9ed03091a7bed3c95edf923dbb5cb757a884992bd264"
+      },
+      {
+        "path": "ex5/ft_data_stream.py",
+        "sha256": "840b2327a2e00d28953319871e1fbc1ddd1749d7aac5d0feb71e2ca3d0ed2af0"
+      },
+      {
+        "path": "ex6/ft_data_alchemist.py",
+        "sha256": "c9e5105c5a45df321f5f24063315f601db21249b2eee6549061d94f2fb8f35fd"
+      }
+    ]
+  },
+  {
+    "module": "python04",
+    "source_directory": "python04",
+    "source_commit": "d9cf991d7717fb6e2f793e82aaed600184ca764a",
+    "commit_date": "2026-06-10",
+    "school_remote_verified_on": "2026-11-17",
+    "excluded_tracked_files": [],
+    "files": [
+      {
+        "path": "ex0/ft_ancient_text.py",
+        "sha256": "162f1aca477c56572484bbe05e6db9d59f9596f62b4d9ae7d656011646cc375f"
+      },
+      {
+        "path": "ex1/ft_archive_creation.py",
+        "sha256": "99f6b7e9a4c8b760c9d5b1277e600c29dcb9934818d06357c0b3b3e160a7685a"
+      },
+      {
+        "path": "ex2/ft_stream_management.py",
+        "sha256": "e98da62d20d8116982461866b4909edae85f9329c08d9dc0f7622eb39147fa14"
+      },
+      {
+        "path": "ex3/ft_vault_security.py",
+        "sha256": "e81466d69b82fd4d3821482711ed2a01cb910ad5d488dbea26803a7e91a64f5a"
+      }
+    ]
+  },
+  {
+    "module": "python05",
+    "source_directory": "python05",
+    "source_commit": "8cbd2a5dbc6c09c008c429aed26ded0e690c8eec",
+    "commit_date": "2026-06-11",
+    "school_remote_verified_on": "2026-11-17",
+    "excluded_tracked_files": [],
+    "files": [
+      {
+        "path": "ex0/data_processor.py",
+        "sha256": "5b4c2cc436b2a6e356f734bf51bff219caef5ac6b04a80da107a6fa34e574de4"
+      },
+      {
+        "path": "ex1/data_stream.py",
+        "sha256": "5cbddb0ed87f35aba5121eacd447bc70987bb2de6f1dd149b3333da45f0f2608"
+      },
+      {
+        "path": "ex2/data_pipeline.py",
+        "sha256": "f33cf6784829d399074e6535b42696cb3b935d8377d8bef2128ad625d8b7d243"
+      }
+    ]
+  },
+  {
+    "module": "python06",
+    "source_directory": "python06",
+    "source_commit": "38a616761a6744488dfa9e31f211b0f4e0332e97",
+    "commit_date": "2026-07-03",
+    "school_remote_verified_on": "2026-11-17",
+    "excluded_tracked_files": [
+      "ex0/.DS_Store"
+    ],
+    "files": [
+      {
+        "path": "ex0/alchemy/__init__.py",
+        "sha256": "80637077a861e59b1454a6287e230711ab60387eeeb7e61fe26e0736eb0a4b86"
+      },
+      {
+        "path": "ex0/alchemy/elements.py",
+        "sha256": "c9b39f3f2ffc1fe1cc42532ec4025ac4b9a58ce5323e26fabf1eb51e4344feab"
+      },
+      {
+        "path": "ex0/alchemy/grimoire/__init__.py",
+        "sha256": "68b34d1315f4d8cab110bc8df9470c46d57545825b90bb4f22a961210b5e94f9"
+      },
+      {
+        "path": "ex0/alchemy/grimoire/dark_spellbook.py",
+        "sha256": "a475d198ae01355759552db6a70583272e7f079293e7cebf77f19dbffe38fdf3"
+      },
+      {
+        "path": "ex0/alchemy/grimoire/dark_validator.py",
+        "sha256": "4cf0e6ce4ddf07b9828bb782c13ac1c0d2269138033c7c6ee41b9d6c1f6c48c7"
+      },
+      {
+        "path": "ex0/alchemy/grimoire/light_spellbook.py",
+        "sha256": "a6e283bd7a83d641c76a23b3f611d3768e7f0e088cb326768bfc921b958ed375"
+      },
+      {
+        "path": "ex0/alchemy/grimoire/light_validator.py",
+        "sha256": "b61ee5e26dbb05479238ca4613a3729f71a900646ba38521a7e1340e375341ec"
+      },
+      {
+        "path": "ex0/alchemy/potions.py",
+        "sha256": "f5f43220638534bdc0ec937f67ee6e4109618bc553c37f82c77b3ef7883ff4d9"
+      },
+      {
+        "path": "ex0/alchemy/transmutation/__init__.py",
+        "sha256": "5f4c7cb0da5378de3100d2d629520f6a4e53e80811c65bcf910d5d7d11f20bc2"
+      },
+      {
+        "path": "ex0/alchemy/transmutation/recipes.py",
+        "sha256": "82b296538b186ac8b134598549a7aea50425b4106c386cc014a5b1117433ba62"
+      },
+      {
+        "path": "ex0/elements.py",
+        "sha256": "559a1d5b672b68d5248e54a41139e6176db223370829b6d5424b2d7b06a7a326"
+      },
+      {
+        "path": "ex0/ft_alembic_0.py",
+        "sha256": "22968d7d599fefa6ee0667211f4624c043e012c20207720383665c4190bc986e"
+      },
+      {
+        "path": "ex0/ft_alembic_1.py",
+        "sha256": "7bfa3455070ac61b695367bf0eadafe0d8e17cd1dc2f16db54aebc297391f62d"
+      },
+      {
+        "path": "ex0/ft_alembic_2.py",
+        "sha256": "072bd731a4588593014fce29118a03ababedaa50c1187a3f02f0aaa733410956"
+      },
+      {
+        "path": "ex0/ft_alembic_3.py",
+        "sha256": "aa7c61f289f794e6754ed12c1087b1c95546225bf0ef10d98866d5358ca6911f"
+      },
+      {
+        "path": "ex0/ft_alembic_4.py",
+        "sha256": "d97f48afbd5e18e13d94f17cf6797337a849894840f1db9383629a3a8c41d0dd"
+      },
+      {
+        "path": "ex0/ft_alembic_5.py",
+        "sha256": "652f9d4ee7af834451b66f2ebaeb65c3addb85c5f3ab667792e00cc778ca3eb4"
+      },
+      {
+        "path": "ex0/ft_distillation_0.py",
+        "sha256": "f410318d74f651142f5e8051441299717b19326ce59038b82cbbe8b561184e55"
+      },
+      {
+        "path": "ex0/ft_distillation_1.py",
+        "sha256": "f69f0177c73f3b29a5f1bcb98b09b883157ac1f0848901c2cc35dc666e8d4ab2"
+      },
+      {
+        "path": "ex0/ft_kaboom_0.py",
+        "sha256": "6245fa3608d66c8d3b0579580bc6278cd98fb048e48a32058db2208f6f1c9c42"
+      },
+      {
+        "path": "ex0/ft_kaboom_1.py",
+        "sha256": "52bbda7c445c9a5cd1078b2f164ac142c907d21dceb3b89405258c93f45b770b"
+      },
+      {
+        "path": "ex0/ft_transmutation_0.py",
+        "sha256": "6fcdd4a85965ae85e9fce96e509706486474882cb2cd594f5d3415a41d232a2b"
+      },
+      {
+        "path": "ex0/ft_transmutation_1.py",
+        "sha256": "0d67c2298d64208264d3391b9f1b8d523921f5747bd2ab4e351d70de86e34147"
+      },
+      {
+        "path": "ex0/ft_transmutation_2.py",
+        "sha256": "b28528853ed18788519d5eacaf0f4672e757af464f6c1add69fd98b127980060"
+      }
+    ]
+  },
+  {
+    "module": "python07",
+    "source_directory": "python07",
+    "source_commit": "16a72cf61afb594673cc2fe45fa8bf8ec94b894f",
+    "commit_date": "2026-07-06",
+    "school_remote_verified_on": "2026-11-17",
+    "excluded_tracked_files": [],
+    "files": [
+      {
+        "path": "battle.py",
+        "sha256": "b1f36f4a9d8d08776757f3da89d682efa153338a23f5b6503111841e0dda693d"
+      },
+      {
+        "path": "capacitor.py",
+        "sha256": "b12872d25de5ca49cebbca03d9b9a3911f2674515d52160aee07c4c5cd97b1dd"
+      },
+      {
+        "path": "ex0/__init__.py",
+        "sha256": "25beae6a71af4ac125c626a5f8b79a0b0c1b151314f3d792b1a13eaaa0b24064"
+      },
+      {
+        "path": "ex0/creature_factory.py",
+        "sha256": "fd4f3fd03268c99041ff8b4ca5dbf46013409581f9c2f1718f1d7416b6c840b9"
+      },
+      {
+        "path": "ex1/__init__.py",
+        "sha256": "731329a487f72ae360341c405fb3dfa0a3032dea8f6fd11d1aa5bced99b46fac"
+      },
+      {
+        "path": "ex1/capabilities.py",
+        "sha256": "82154e63a71480755dff0934dcdf485f590c1feb4e13b2a63684fea53833c660"
+      },
+      {
+        "path": "ex1/creatures.py",
+        "sha256": "d7b59249febab5e5ddf96b5aa95017da28c46a93d1b926c45256cf934d2b21c1"
+      },
+      {
+        "path": "ex1/specialized_factories.py",
+        "sha256": "e82e82fb9e484ed4a1cbb0cb961a3ac8970ad5bb8c60a9f5739efce5a260bdf3"
+      },
+      {
+        "path": "ex2/__init__.py",
+        "sha256": "53e42f9d0d0e58996db0d703872642944c96e0df2f6dd59cda55a4c05ee1b9df"
+      },
+      {
+        "path": "ex2/errors.py",
+        "sha256": "613925694f0a7d4284646191e21b5f6dfa0f8af8378096d4f98f4dc309ef7647"
+      },
+      {
+        "path": "ex2/strategies.py",
+        "sha256": "85b2763a3646d3908579119e55e29b183281d866c164dbf9dcbf298674f543e3"
+      },
+      {
+        "path": "tournament.py",
+        "sha256": "e2fa4aecf4ef950abfdc86b6177416f7e96b5e45abd131e66f7cf0dc7d458179"
+      }
+    ]
+  },
+  {
+    "module": "python08",
+    "source_directory": "python08",
+    "source_commit": "bdcc932acd8ad9886738c47df7e23dbd77e6e293",
+    "commit_date": "2026-07-20",
+    "school_remote_verified_on": "2026-11-17",
+    "excluded_tracked_files": [],
+    "files": [
+      {
+        "path": "ex0/construct.py",
+        "sha256": "f64b4c9c182819c7a51c47af385e52c2ed53dfec9d6a54b8ac48b673439b147c"
+      },
+      {
+        "path": "ex1/loading.py",
+        "sha256": "6dd2155cd4ea9dd65c63b57b6781f05c5f26aaadc3f914c35a07098a24b6efa3"
+      },
+      {
+        "path": "ex1/pyproject.toml",
+        "sha256": "dab3764820d1708590f9b50337886fa73eb8e38d2c78c6e58b8376b30babd26c"
+      },
+      {
+        "path": "ex1/requirements.txt",
+        "sha256": "4995dc2925d4c8800355243bf97df42122dc4a4e3c8114b609a8a92ff84946ed"
+      },
+      {
+        "path": "ex2/.env.example",
+        "sha256": "d7db2c2cd229ddbf6ad2e96003a73e6da7dddef0516008300d67b3add4007bf4"
+      },
+      {
+        "path": "ex2/.gitignore",
+        "sha256": "5a0a663f805b6b5419b95cb169320f610a9cf61f5e07cb9ac7480f6359ab2a12"
+      },
+      {
+        "path": "ex2/oracle.py",
+        "sha256": "1b92cdbfaac865cfa5309dc960fe3fac7239744e020a884a2e1ccd9392eb527f"
+      }
+    ]
+  },
+  {
+    "module": "python09",
+    "source_directory": "python09_v2",
+    "source_commit": "5e5fc2c49f76824d3c261869f7878aade755a609",
+    "commit_date": "2026-07-24",
+    "school_remote_verified_on": "2026-11-17",
+    "excluded_tracked_files": [],
+    "files": [
+      {
+        "path": "ex0/space_station.py",
+        "sha256": "b6e2375588155262900f18be603f75ab0059fad24eb31e9827ad1b47247c6fda"
+      },
+      {
+        "path": "ex1/alien_contact.py",
+        "sha256": "1f64ea9066d072ede9504735abc834aca5ec1b094b4f23a54cf2020c67da027c"
+      },
+      {
+        "path": "ex2/space_crew.py",
+        "sha256": "9c064f14b544c70009daf68aa706b4e14eb8dc3ffb9b782d375cdefa758256c7"
+      }
+    ]
+  },
+  {
+    "module": "python10",
+    "source_directory": "python10",
+    "source_commit": "f2937ce3b41ec99155b28373450f265fdcaef0ef",
+    "commit_date": "2026-07-31",
+    "school_remote_verified_on": "2026-11-17",
+    "excluded_tracked_files": [],
+    "files": [
+      {
+        "path": "ex0/lambda_spells.py",
+        "sha256": "b3b1c6fe3f08e04f2b839698e8a6590634dc37d2e947870361edad533e78d640"
+      },
+      {
+        "path": "ex1/higher_magic.py",
+        "sha256": "07b1e040bffe4cbeb3d2d87d4fbdf8d63bc1f2ad1ce6af72fc143e0271ca4f11"
+      },
+      {
+        "path": "ex2/scope_mysteries.py",
+        "sha256": "212fd58bc7edeade116c2f41d823ba84878c5d47ec9891945c072e8eea482fc0"
+      },
+      {
+        "path": "ex3/functools_artifacts.py",
+        "sha256": "963830089744d94ed531dd526bf643b26ee6ba79001bda39d46db6fe1f111e46"
+      },
+      {
+        "path": "ex4/decorator_mastery.py",
+        "sha256": "4272c81e4b232e91bda09c5c39103699dcba16b42640bc75ece930587208e38e"
+      }
+    ]
+  }
+]
